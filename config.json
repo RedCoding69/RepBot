@@ -1,0 +1,5 @@
+{
+"prefix":"rep/",
+"token":"your token here",
+"MongoDBdatabase":"your mongoDB uri here"
+}
